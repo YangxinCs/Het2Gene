@@ -30,6 +30,15 @@ Rank	EntrezID	Symbol	Score
 5	4000	LMNA	-3.271
 
 ```
+# Web Resources for Comparison Methods
+CADA:[https://cada.gene-talk.de/webservice](https://cada.gene-talk.de/webservice)
+
+AMELIE:[https://amelie.stanford.edu](https://amelie.stanford.edu)
+
+Phen2Gene:[https://phen2gene.wglab.org](https://phen2gene.wglab.org)
+
+GADO:[https://genenetwork.nl/gado](https://genenetwork.nl/gado)
+
 # License
 See the LICENSE file for license rights and limitations
 
